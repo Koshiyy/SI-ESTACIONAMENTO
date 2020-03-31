@@ -1,9 +1,0 @@
-Entrada:
--acesso a um sistema integrado com camera e sensor que contabilize quantas vagas e o local da vaga mais proxima
--na area da catraca ter uma camera que lê a placa e registra o horario da entrada(já vincula a placa com a vaga disponivel)
-
-Hora de pegar o carro:
--Pessoa fala o número da placa
--o atendente busca no sistema que tambem registra o horario de saida,calcula o valor e já pede o pagamento via cartão ou dinheiro
--manobrista pega o carro,sensor desativa(vaga disponivel que já vai para o sistema)
--a catraca só destrava quando o pagamento é efetuado
